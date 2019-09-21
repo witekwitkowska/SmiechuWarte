@@ -1,2 +1,0 @@
-# SmiechuWarte
-Created with CodeSandbox
